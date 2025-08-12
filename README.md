@@ -16,3 +16,9 @@ Pre-trained ML model integrated via FastAPI
 Docker support for containerized deployment
 
 Swagger UI auto-documentation at /docs
+
+fraud-detection-api/
+├── main.py               # FastAPI routes and logic
+├── requirements.txt      # Python dependencies
+├── Dockerfile            # Container configuration
+└── README.md             # You are here
