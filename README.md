@@ -7,7 +7,8 @@ A RESTful API for detecting fraudulent transactions using machine learning. Depl
 
 ---
 
-📌 Features
+📌KEY FEATURES
+
 Real-time fraud prediction (JSON input/output)
 
 Pre-trained ML model integrated via FastAPI
