@@ -36,14 +36,14 @@ docker build -t fraud-api .
 
 docker run -p 8000:8000 fraud-api
 
---
+-----
 
 SYSTEM ARCHITECHURE 
 
 <img width="2972" height="351" alt="deepseek_mermaid_20250812_303d13" src="https://github.com/user-attachments/assets/b4c1c553-e664-4991-be8f-c71e3632fe37" />
 
 ---------------
-🚀 Usage
+🚀 USAGE
 
 Sample Request bash
 
@@ -80,6 +80,7 @@ Create a feature branch (git checkout -b feature/your-feature)
 
 Submit a PR with tests 
 
+----------------
 📄 License
 
 MIT © OpenFraudLabs
