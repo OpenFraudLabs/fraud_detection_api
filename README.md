@@ -5,3 +5,13 @@ Fraud Detection API
 
 A RESTful API for detecting fraudulent transactions using machine learning. Deployable via Docker or locally with FastAPI.
 
+---
+
+📌 Features
+Real-time fraud prediction (JSON input/output)
+
+Pre-trained ML model integrated via FastAPI
+
+Docker support for containerized deployment
+
+Swagger UI auto-documentation at /docs
